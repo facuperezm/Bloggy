@@ -12,7 +12,7 @@ Bloggy is an blog posting app
 
 ## Links
 
-- Live site deployed on Vercel: [Deploy](https://bloggyapp.vercel.app/)
+- Live site deployed on Vercel: [Deploy](https://bloggy-facundo.vercel.app/)
 
 ## Author
 
